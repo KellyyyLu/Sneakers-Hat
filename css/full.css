@@ -5,13 +5,14 @@
  */
 
 body {
-    margin-top: 0px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    margin-top: 200px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
     background: url('../img/Sneaker-Hat.jpg') no-repeat center center fixed;
+    margin-top: 100px;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     background-size: 100%;
